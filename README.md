@@ -1,18 +1,16 @@
 # Hi there, I'm Jaco 👋
 
-## I'm a Developer, and Student of Life!!
+## I'm a Developer, and Student of Life
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to travel, read, cook and hiking
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jakwakwa)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jakwakwa&count_private=true&include_all_commits)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-jakwakwa.vercel.app/api/spotify-playing" alt="jakwakwa Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-jakwakwa.vercel.app/api/spotify-playing" alt="jakwakwa Spotify Playing" width="350" />](https://open.spotify.com/user/jakwakwa)
 
 ### Connect with me:
 
