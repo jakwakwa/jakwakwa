@@ -8,6 +8,8 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jakwakwa)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-jakwakwa.vercel.app/api/spotify-playing" alt="jakwakwa Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
@@ -63,15 +65,6 @@
 4. 🎉 Merged PR [#6](https://github.com/codeSTACKr/codeSTACKr/pull/6) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
 5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
 <!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-[![Jakwakwa's github stats](https://github-readme-stats.vercel.app/api?username=jakwakwa)](https://github.com/jakwakwa/github-readme-stats)
-
-
-</details>
 
 [website]: https://doodlesdigital.co.za
 [twitter]: https://twitter.com/KotzeeJaco
