@@ -68,11 +68,11 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+[![Jakwakwa's github stats](https://github-readme-stats.vercel.app/api?username=jakwakwa)](https://github.com/jakwakwa/github-readme-stats)
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jakwakwa&show_icons=true&hide_border=true" />
 
 </details>
 
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[website]: https://doodlesdigital.co.za
+[twitter]: https://twitter.com/KotzeeJaco
+[linkedin]: https://www.linkedin.com/in/jacobkotzee/
