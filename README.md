@@ -6,7 +6,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel, read, cook and hiking
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jakwakwa&count_private=true&include_all_commits)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jakwakwa&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me
 
