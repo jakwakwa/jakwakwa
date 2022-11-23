@@ -6,7 +6,6 @@
 - 🎯 2022 Goals: Mentoring gigs, & Experiment with [Remix](https://remix.run/) and [SolidJs](https://www.solidjs.com/) Frameworks
 - ⛰️ Fun fact: I love to travel, read, cook and hiking
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jakwakwa&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me
 
