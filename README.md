@@ -33,7 +33,7 @@
 ### 📺 Podcasts I enjoy
 
 <!-- PODCASTS:START -->
-- [Frontend Happy Hour)](https://frontendhappyhour.com/)
+- [Frontend Happy Hour](https://frontendhappyhour.com/)
 - [Ladybug Podsast](https://www.ladybug.dev/)
 - [JS Party](https://changelog.com/jsparty)
 - [Syntax](https://syntax.fm/)
