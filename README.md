@@ -1,6 +1,6 @@
 # Hi there, I'm Jaco 👋
 
-## I'm a Developer, and Student of Life
+## I'm a Frontend Developer ( with good UI/UX design skills included )
 
 - 🧐 INFJ-T [Meyers Briggs Personality](https://www.16personalities.com/infj-personality)
 - 🎯 2022 Goals: Mentoring gigs, & Experiment with [Remix](https://remix.run/) and [SolidJs](https://www.solidjs.com/) Frameworks
