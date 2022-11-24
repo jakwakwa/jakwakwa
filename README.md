@@ -1,4 +1,4 @@
-# Hi there, I'm Jaco 👋
+# Hi there 👋, I'm Jaco 
 
 ## I'm a Frontend Developer ( with geniune UI/UX design skills included 🦄 )
 
