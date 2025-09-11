@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Jaco 
+# Hi there 👋, I'm Jacob
 
 ## I'm a Frontend Developer ( with geniune UI/UX design skills included 🦄 )
 
@@ -28,21 +28,5 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
 
----
-
-### 📺 Podcasts I enjoy
-
-<!-- PODCASTS:START -->
-- [Frontend Happy Hour](https://frontendhappyhour.com/)
-- [Ladybug Podsast](https://www.ladybug.dev/)
-- [JS Party](https://changelog.com/jsparty)
-- [Syntax](https://syntax.fm/)
-<!-- PODCASTS:END -->
-
----
-
-
-[twitter]: https://twitter.com/KotzeeJaco
 [linkedin]: https://www.linkedin.com/in/jacobkotzee/
