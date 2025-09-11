@@ -3,7 +3,7 @@
 ## I'm a Frontend Developer ( with geniune UI/UX design skills included 🦄 )
 
 - 🧐 INFJ-T [Meyers Briggs Personality](https://www.16personalities.com/infj-personality)
-- 🎯 2025 Goals: Build a NextJs Fullstack App. Learning how to use Postgres Database in a NextJs App.ai Prompt Engineering.
+- 🎯 2025 Goals: Ai Applications Engineering
 - ⛰️ Fun fact: I love to travel, read, cook and hiking
 
 
