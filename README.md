@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Jacob
 
-## Frontend Engineer | UI/UX design  🦄 
+## Frontend Engineer | UI Designer 🦄 
 
 - 🧐 INFJ-T [Meyers Briggs Personality](https://www.16personalities.com/infj-personality)
 - 🎯 2025 Goals: Ai Applications Engineering
