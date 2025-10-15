@@ -1,10 +1,10 @@
 # Hi there 👋, I'm Jacob
 
-## I'm a Frontend Developer ( with geniune UI/UX design skills included 🦄 )
+## Frontend Engineer | UI/UX design  🦄 
 
 - 🧐 INFJ-T [Meyers Briggs Personality](https://www.16personalities.com/infj-personality)
 - 🎯 2025 Goals: Ai Applications Engineering
-- ⛰️ Fun fact: I love to travel, read, cook and hiking
+- ⛰️ Interests: Ai, Investment, Learning, Travel, Music, Bitcoin Bull
 
 
 ### Connect with me
