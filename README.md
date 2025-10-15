@@ -29,7 +29,7 @@ Links: Direct links to your other profiles (e.g., Frontend Mentor, LinkedIn) and
 
 ### Connect with me
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="122px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href="https://Linkedin.com/JacobKotzee" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="122px" colour ="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href="https://Linkedin.com/JacobKotzee" />][linkedin]
 
 
 
