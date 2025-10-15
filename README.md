@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Jacob
+# Jacob Kotzee's GitHub Profile
 
 ## Frontend Engineer | UI Designer 🦄 
 
