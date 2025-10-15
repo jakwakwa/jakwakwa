@@ -1,19 +1,44 @@
-# Jacob Kotzee's GitHub Profile
+# Hey 👋🏼 I'm Jacob
 
-## Frontend Engineer | UI Designer 🦄 
+## An experienced and passionate Frontend Engineer from Cape Town, ZA
 
-- 🧐 INFJ-T [Meyers Briggs Personality](https://www.16personalities.com/infj-personality)
-- 🎯 2025 Goals: Ai Applications Engineering
-- ⛰️ Interests: Ai, Investment, Learning, Travel, Music, Bitcoin Bull
+### Personality 🧐 
 
+**INFJ-T**
+- [Meyers Briggs Personality](https://www.16personalities.com/infj-personality)
+
+### 🎯 Current Goals: 
+
+- Continued Learning and gaining Ai Application and Automation experience 
+
+
+### ⛰️ Interests: 
+- Tech & Ai, 
+- Finance/Investing
+- Learning/Reading 
+- Travel, 
+- Music, 
+- Bitcoin/Crypto 🐮
+
+
+Skills: 
+Key technologies
+
+
+Links: Direct links to your other profiles (e.g., Frontend Mentor, LinkedIn) and personal website.
 
 ### Connect with me
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href="https://Linkedin.com/JacobKotzee" />][linkedin]
+
+
 
 <br />
 
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakwakwa)](https://github.com/jakwakwa/github-readme-stats)
+
 
 ### Languages and Tools
  
